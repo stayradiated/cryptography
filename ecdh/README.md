@@ -3,7 +3,7 @@
 Shoutout to Brendon (@brendonjohn) for getting me back into cryptography!
 
 We found it a little tricky to send messages using private/public keys, so I've
-written done some notes about how to do it with Node.js
+written down some notes about how to do it with Node.js
 
 ## Steps
 
