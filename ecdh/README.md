@@ -16,7 +16,7 @@ const CURVE = 'secp256k1'
 ```
 
 2. Generate your own private keys using that curve. Don't lose your private
-   key!
+   key! You can run this script with `node ./dist/generate-keys.js`.
 
 ```typescript
 import { createECDH } from 'crypto'
