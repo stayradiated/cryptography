@@ -38,7 +38,7 @@ const FRIENDS_PUBLIC_KEY = '04032bf0132…'
 
 4. We can reload a previously generated private key using `ecdh.setPrivateKey`.
 
-```typescipt
+```typescript
 const MY_PRIVATE KEY = '6e6bce6203…'
 
 const me = createECDH(CURVE)

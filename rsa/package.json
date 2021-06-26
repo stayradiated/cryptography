@@ -1,7 +1,7 @@
 {
-  "name": "@stayradiated/cryptography-ecdh",
+  "name": "@stayradiated/cryptography-rsa",
   "version": "1.0.0",
-  "description": "",
+  "description": "Send encrypted messages using SSH RSA keys",
   "type": "module",
   "exports": "./dist/index.js",
   "types": "./dist/index.d.ts",
