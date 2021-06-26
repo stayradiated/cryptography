@@ -1,5 +1,9 @@
 # Using SSH RSA keys to send messages with Node.js
 
+Shout out to Soham Kamani (@sohamkamani) He has a great blog post that really
+helped me to get RSA encryption working:
+https://www.sohamkamani.com/nodejs/rsa-encryption/
+
 ## Steps
 
 1. Let's generate some RSA key pairs to test with. Note that these keys need to
